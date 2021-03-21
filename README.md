@@ -2,6 +2,12 @@
 <i>❝“In a software project team of 10, there are probably 3 people who produce enough defects to make them net negative producers.”— Gordon Schulmeyer   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
+#### Programmer Tools
+[Window Preview Class](https://github.com/CarlTBarnes/WindowPreview) - Designer Preview windows have a secret button that allows altering controls on the live preview window and interrogating properties. Easily integrate the class into your live running program to see the USE() behind every control, its PROP's, Resize it, Reformat LISTs. Methods to reflect QUEUE fields and CLASS data. Much More!
+
+More....
+
+
 <!--
 **CarlTBarnes/CarlTBarnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
