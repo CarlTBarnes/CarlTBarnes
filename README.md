@@ -2,14 +2,7 @@
 <i>❝“Computer viruses are an urban legend.”— Peter Norton, 1988   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-#### Programmer Tools
-[Window Preview Class](https://github.com/CarlTBarnes/WindowPreview) - Designer Preview windows have a secret button that allows altering controls on the live preview window and interrogating properties. Easily integrate the class into your live running program to see the USE() behind every control, its PROP's, Resize it, Reformat LISTs. Methods to reflect QUEUE fields and CLASS data. Much More!
-
-[StringTheory Tools](https://github.com/CarlTBarnes/StringTheory-Tools) - Four tools to write make it easier to write code using StringTheory and its up to 8 parameters.
-
-[System Colors](https://github.com/CarlTBarnes/SystemColors) - View System Colors grouped by Purpose
-
-| Type | URL | Description (Code="Code you can use"; Misc=Needs Type)  |
+| Type | URL | Description (Code="Code you can use")  |
 |-----|-----|-------------|
 | A1 Code | [Window Preview Class](https://github.com/CarlTBarnes/WindowPreview) | Designer Preview windows have a secret button that allows altering controls on the live preview window and interrogating properties. Easily integrate the class into your live running program to see the USE() behind every control, its PROP's, Resize it, Reformat LISTs. Methods to reflect QUEUE fields and CLASS data. Much More! |
 | A2 Code & Utility | StringTheory Tools](https://github.com/CarlTBarnes/StringTheory-Tools) | Three tools to make it easier to write code using StringTheory and its up to 8 parameters. The BigBangTheory class helps debug your ST code with popup windows to show value, lines queue, splits, parameters, more. |
@@ -35,7 +28,7 @@
 | Utility | [Open File For Test](https://github.com/CarlTBarnes/OpenFileForTest) | Open a file and lock it to test your code can handle it gracefully and show an error. E.g. often CSV files are locked by Excel. |
 | Utility | [Prototype 2 Export Pro2Exp](https://github.com/CarlTBarnes/Prototype2Export-Pro2Exp) | Mangle Procedure Prototypes to add to the EXP Exports |
 | Utility | [Win SDK 10](https://github.com/CarlTBarnes/winsdk-10) | Use TPN put the Win 10 SDK on GitHub. I forked it as useful. |
-| Utility | [Zip FileName Fixer](https://github.com/CarlTBarnes/Zip-FileName-Fixer) | Zip files will not compress files with high ASCII characters so this finds and fixes them.  |
+| Utility | [Zip FileName Fixer](https://github.com/CarlTBarnes/Zip-FileName-Fixer) | Zip will not compress files with High ASCII characters so this finds and fixes them.  |
 
 
 Covered on Clarion Live...  
