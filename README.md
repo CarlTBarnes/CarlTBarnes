@@ -7,34 +7,44 @@
 
 [StringTheory Tools](https://github.com/CarlTBarnes/StringTheory-Tools) - Four tools to write make it easier to write code using StringTheory and its up to 8 parameters.
 
-More to categorize....
+[System Colors](https://github.com/CarlTBarnes/SystemColors) - View System Colors grouped by Purpose
 
-| Cat | URL | Description |
+| Type | URL | Description (Code="Code you can use"; Misc=Needs Type)  |
 |-----|-----|-------------|
-| Misc | [name](url) | |
-| Misc | [HelpEngine_CwHelp.INT](https://github.com/CarlTBarnes/HelpEngine_CwHelp.INT) | Help is hooked using the Clarion Help Engine Interface in CwHelp.INT. Examples of how to use it. |
+| Code & Example | [HelpEngine Hook](https://github.com/CarlTBarnes/HelpEngine_CwHelp.INT) | Help is hooked using the Clarion HelpEngine Interface in CwHelp.INT. Examples of how to use it. |
 | Misc | [Large Address Memory Status](https://github.com/CarlTBarnes/LargeAddressMemoryStatus) | LARGE_ADDRESS in the EXP will increase process memory form 2GB to 4GB. Example shows Memory Status. |
 | Misc | [Legacy ABC Coexist](https://github.com/CarlTBarnes/Legacy-ABC-Coexist) | Legacy and ABC APPs used together  |
 | Misc | [LIST Style Checkbox](https://github.com/CarlTBarnes/LIST-Style-Checkbox) | LIST Checkbox or Icon using Column Style and Dingbat fonts so no need for .ICO files |
-| Misc | [name](url) | |
-| Misc | [name](url) | |
-| Code to Use | [Number to Words](https://github.com/CarlTBarnes/Number-to-Words-Ordinal) | Convert Numbers to words either Cardinal or Ordinal e.g. Ten or Tenth |
-| Code to Use | [Password TEXT Paste](https://github.com/CarlTBarnes/Password-TEXT-Paste) | Clarion ENTRY,PASSWORD cannot paste. This code allows paste using a TEXT,SINGLE with ES_PASSWORD |
-| Code to Use | [Temp-Clean-Clarion](https://github.com/CarlTBarnes/Temp-Clean-Clarion) | Clarion Reports generate WMF CLA###.TMP files into the Temp folder. Some templates generate more. Build this utility into your program to keep the Temp folder from filling up. |
-| Code to Use | [Stop Better Hook](https://github.com/CarlTBarnes/Stop-Better-Hook) | STOP() should never be in production code, but if it does happen show a better dialog. Also for HALT. Stack Trace button to find the exact STOP code. |
-|-----|-----|-------------|
-| Utility | [name](url) | |
-| Utility | [name](url) | |
+| Code | [Clarion-Root-Find](https://github.com/CarlTBarnes/Clarion-Root-Find) | Find Clarion IDE installed in Registry and return a Queue. Handy if you write Clarion IDE Utilities. |
+| Code | [Holiday Calculator](https://github.com/CarlTBarnes/Holiday-Calculator) | Holiday Calculations in Clarion code from New Year's day to Thanksgiving and Christmas. Has two different Easter Calculations. |
+| Code | [Number to Words](https://github.com/CarlTBarnes/Number-to-Words-Ordinal) | Convert Numbers to words either Cardinal or Ordinal e.g. Ten or Tenth |
+| Code | [Password TEXT Paste](https://github.com/CarlTBarnes/Password-TEXT-Paste) | Clarion ENTRY,PASSWORD cannot paste. This code allows paste using a TEXT,SINGLE with ES_PASSWORD |
+| Code | [Temp-Clean-Clarion](https://github.com/CarlTBarnes/Temp-Clean-Clarion) | Clarion Reports generate WMF CLA###.TMP files into the Temp folder. Some templates generate more. Build this utility into your program to keep the Temp folder from filling up. |
+| Code | [Stop Better Hook](https://github.com/CarlTBarnes/Stop-Better-Hook) | STOP() should never be in production code, but if it does happen show a better dialog. Also for HALT. Stack Trace button to find the exact STOP code. |
+| Code & Utility | [Window Preview Class](https://github.com/CarlTBarnes/WindowPreview) | Designer Preview windows have a secret button ... see above |
+| ----- | ----- | ------------- |
 | Utility | [Clipboard Enum Viewer](https://github.com/CarlTBarnes/ClipboardEnumViewer) | Simple program to call EnumClipboardFormats() and show all the formats. Can also view the clipboard data using the Clarion Clipboard() function. |
 | Utility | [Do2Class](https://github.com/CarlTBarnes/Do2Class) | Do2Class utility changes all DO ROUTINE code to call CLASS Methods in a Procedure. The code changes are minor, but to make the changes manually is tedious work, hence the utility to do it right with little work |
 | Utility | [Favorite Find IDE](https://github.com/CarlTBarnes/FindCleanCwIDE/tree/main/FavoriteFind) | Add your favorite searches to the Find drop list (and clean)  |
 | Utility | [Find Clean CW IDE](https://github.com/CarlTBarnes/FindCleanCwIDE) | Clean the Clarion IDE Find drop list for faster open  |
+| Utility | [LibMaker Plus](https://github.com/CarlTBarnes/LibMakerPlus) | The Best LibMaker with Search, Tag, Subtract, Code generation. Based on [MG LibMaker](https://github.com/MarkGoldberg/ClarionCommunity/tree/master/CW/MGLibMaker) |
+| Example | [LibMaker w/ Task Dialog](https://github.com/CarlTBarnes/LibMakerPlusTaskDlg) | LibMaker Plus using the Vista TakeDialog instead of Message(). Example for CIDC 2019 |
 | Utility | [Open File For Test](https://github.com/CarlTBarnes/OpenFileForTest) | Open a file and lock it to test your code can handle it gracefully and show an error. E.g. often CSV files are locked by Excel. |
 | Utility | [Prototype 2 Export Pro2Exp](https://github.com/CarlTBarnes/Prototype2Export-Pro2Exp) | Mangle Procedure Prototypes to add to the EXP Exports |
 | Utility | [System Colors](https://github.com/CarlTBarnes/SystemColors) | View Windows System Colors grouped by Purpose, Alpha, or Equate Number. **One I use often.** |
 | Utility | [Zip FileName Fixer](https://github.com/CarlTBarnes/Zip-FileName-Fixer) | Zip files will not compress files with high ASCII characters so this finds and fixes them.  |
+| Utility | [Data To Clarion](https://github.com/CarlTBarnes/DataToClarion) | StringTheory compressed string to use in Code from JSlarve |
 | Utility | [name](url) | |
-| Utility | [name](url) | |
+| Utility | [Win SDK 10](https://github.com/CarlTBarnes/winsdk-10) | Use TPN put the Win 10 SDK on GitHub. I forked it as useful. |
+| Template | [Parameter Symbols](https://github.com/CarlTBarnes/Template-Parameter-Symbols) | Procedure Parameter Symbols were added in C9 that save you parsing. This template shows you the 8 new symbols and documents them. |
+
+Covered on Clarion Live...  
+
+| Date | Type |URL | Description |
+|------|------|----|------------|
+| | Code & Utility | [Window Preview Class](https://github.com/CarlTBarnes/WindowPreview) | Designer Preview windows have a secret button ... see above |
+| | Utility | [Do2Class](https://github.com/CarlTBarnes/Do2Class) | Do2Class utility changes all DO ROUTINE code to call CLASS Methods in a Procedure. The code changes are minor, but to make the changes manually is tedious work, hence the utility to do it right with little work |
+
 
 <!--
 **CarlTBarnes/CarlTBarnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
