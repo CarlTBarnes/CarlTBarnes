@@ -38,6 +38,9 @@ Covered on Clarion Live...
 | #562 5/15/2020 | Utility | [Window Preview Class](https://github.com/CarlTBarnes/WindowPreview) | Designer Preview windows have a secret button ... see above |
 | #567 6/19/2020 | Utility | [Do2Class](https://github.com/CarlTBarnes/Do2Class) | Do2Class utility changes all DO ROUTINE code to call CLASS Methods in a Procedure ... see above  |
 
+[Main Page](https://github.com/CarlTBarnes)
+ -- [Repositories](https://github.com/CarlTBarnes?tab=repositories)
+ -- [GIST Code Snips](https://gist.github.com/CarlTBarnes)
 
 <!--
 **CarlTBarnes/CarlTBarnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
