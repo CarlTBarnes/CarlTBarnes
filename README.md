@@ -5,7 +5,7 @@
 | Type | URL | Description (Code="Code you can use")  |
 |-----|-----|-------------|
 | A1 Code | [Window Preview Class](https://github.com/CarlTBarnes/WindowPreview) | Designer Preview windows have a secret button that allows altering controls on the live preview window and interrogating properties. Easily integrate the class into your live running program to see the USE() behind every control, its PROP's, Resize it, Reformat LISTs. Methods to reflect QUEUE fields and CLASS data. Much More! |
-| A2 Code & Utility | StringTheory Tools](https://github.com/CarlTBarnes/StringTheory-Tools) | Three tools to make it easier to write code using StringTheory and its up to 8 parameters. The BigBangTheory class helps debug your ST code with popup windows to show value, lines queue, splits, parameters, more. |
+| A2 Code & Utility | [StringTheory Tools](https://github.com/CarlTBarnes/StringTheory-Tools) | Three tools to make it easier to write code using StringTheory and its up to 8 parameters. The BigBangTheory class helps debug your ST code with popup windows to show value, lines queue, splits, parameters, more. |
 | A3 Utility | [Do2Class](https://github.com/CarlTBarnes/Do2Class) | Do2Class utility changes all DO ROUTINE code to call CLASS Methods in a Procedure. The code changes are minor, but to make the changes manually is tedious work, hence the utility to do it right with little work |
 | A4 Utility | [System Colors](https://github.com/CarlTBarnes/SystemColors) | View Windows System Colors grouped by Purpose, Alpha, or Equate Number. **One I use often.** |
 | Code & Example | [HelpEngine Hook](https://github.com/CarlTBarnes/HelpEngine_CwHelp.INT) | Help is hooked using the Clarion HelpEngine Interface in CwHelp.INT. Examples of how to use it. |
@@ -40,9 +40,10 @@ Covered on Clarion Live...
 
 
  [Repositories](https://github.com/CarlTBarnes?tab=repositories)
- -- [GIST Code Snips](https://gist.github.com/CarlTBarnes)
+ -- [GIST Code](GistList.md)
+ -- [GIST page](https://gist.github.com/CarlTBarnes)
  -- [Main Page](https://github.com/CarlTBarnes)
- 
+
 <!--
 **CarlTBarnes/CarlTBarnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
