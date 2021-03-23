@@ -40,7 +40,7 @@ Covered on Clarion Live...
 
 
  [Repositories](https://github.com/CarlTBarnes?tab=repositories)
- -- [GIST Code](GistList.md)
+ -- [GIST Code Table](GistList.md)
  -- [GIST page](https://gist.github.com/CarlTBarnes)
  -- [Main Page](https://github.com/CarlTBarnes)
 
