@@ -26,6 +26,7 @@
 | Utility | [Favorite Find IDE](https://github.com/CarlTBarnes/FindCleanCwIDE/tree/main/FavoriteFind) | Add your favorite searches to the Find drop list (and clean)  |
 | Utility | [Find Clean CW IDE](https://github.com/CarlTBarnes/FindCleanCwIDE) | Clean the Clarion IDE Find drop list for faster open  |
 | Utility | [LibMaker Plus](https://github.com/CarlTBarnes/LibMakerPlus) | The Best LibMaker with Search, Tag, Subtract, Code generation. Based on [MG LibMaker](https://github.com/MarkGoldberg/ClarionCommunity/tree/master/CW/MGLibMaker) |
+| Utility | [List Format Parser](https://github.com/CarlTBarnes/List-Format-Parser) | Split the LIST Format Columns into one per line for understanding, editing, source compare. |
 | Utility | [Open File For Test](https://github.com/CarlTBarnes/OpenFileForTest) | Open a file and lock it to test your code can handle it gracefully and show an error. E.g. often CSV files are locked by Excel. |
 | Utility | [Prototype 2 Export Pro2Exp](https://github.com/CarlTBarnes/Prototype2Export-Pro2Exp) | Mangle Procedure Prototypes to add to the EXP Exports |
 | Utility | [Win SDK 10](https://github.com/CarlTBarnes/winsdk-10) | Use TPN put the Win 10 SDK on GitHub. I forked it as useful. |
