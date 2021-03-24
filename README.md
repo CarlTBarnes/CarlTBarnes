@@ -10,7 +10,7 @@
 | A4 Utility | [System Colors](https://github.com/CarlTBarnes/SystemColors) | View Windows System Colors grouped by Purpose, Alpha, or Equate Number. **One I use often.** |
 | Code & Example | [HelpEngine Hook](https://github.com/CarlTBarnes/HelpEngine_CwHelp.INT) | Help is hooked using the Clarion HelpEngine Interface in CwHelp.INT. Examples of how to use it. |
 | Code & Example | [LIST Style Checkbox](https://github.com/CarlTBarnes/LIST-Style-Checkbox) | LIST Checkbox or Icon using Column Style and Dingbat fonts so no need for .ICO files |
-| Code | [AutoComplete File Path](https://github.com/CarlTBarnes/AutoCompleteFileOrURL) | Clarion ENTRY can have an Auto Complete Drop List with one call to SHAutoComplete |
+| Code | [AutoComplete File Path](https://github.com/CarlTBarnes/AutoCompleteFileOrURL) | ENTRY Auto Complete Drop List for File, Path or URL with one call to SHAutoComplete |
 | Code | [Clarion-Root-Find](https://github.com/CarlTBarnes/Clarion-Root-Find) | Find Clarion IDE installed in Registry and return a Queue. Handy if you write Clarion IDE Utilities. |
 | Code | [Holiday Calculator](https://github.com/CarlTBarnes/Holiday-Calculator) | Holiday Calculations in Clarion code from New Year's day to Thanksgiving and Christmas. Has two different Easter Calculations. |
 | Code | [Legacy ABC Coexist](https://github.com/CarlTBarnes/Legacy-ABC-Coexist) | Legacy and ABC APPs used together. Code to make it work and a template. Example School APPs.  |
