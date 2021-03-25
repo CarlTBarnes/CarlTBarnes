@@ -5,9 +5,10 @@
 | Type | URL | Description (Code="Code you can use")  |
 |-----|-----|-------------|
 | A1 Code | [Window Preview Class](https://github.com/CarlTBarnes/WindowPreview) | Designer Preview windows have a secret button that allows altering controls on the live preview window and interrogating properties. Easily integrate the class into your live running program to see the USE() behind every control, its PROP's, Resize it, Reformat LISTs. Methods to reflect QUEUE fields and CLASS data. Much More! |
-| A2 Code & Utility | [StringTheory Tools](https://github.com/CarlTBarnes/StringTheory-Tools) | Three tools to make it easier to write code using StringTheory and its up to 8 parameters. The BigBangTheory class helps debug your ST code with popup windows to show value, lines queue, splits, parameters, more. |
-| A3 Utility | [Do2Class](https://github.com/CarlTBarnes/Do2Class) | Do2Class utility changes all DO ROUTINE code to call CLASS Methods in a Procedure. The code changes are minor, but to make the changes manually is tedious work, hence the utility to do it right with little work |
-| A4 Utility | [System Colors](https://github.com/CarlTBarnes/SystemColors) | View Windows System Colors grouped by Purpose, Alpha, or Equate Number. **One I use often.** |
+| A2 Code & Tool | [StringTheory Tools](https://github.com/CarlTBarnes/StringTheory-Tools) | Three tools to make it easier to write code using StringTheory and its up to 8 parameters. The BigBangTheory class helps debug your ST code with popup windows to show value, lines queue, splits, parameters, more. |
+| A3 Tool | [List Format Parser](https://github.com/CarlTBarnes/List-Format-Parser) | Split the LIST Format Columns into one per line for understanding, editing, source compare. |
+| A4 Tool | [System Colors](https://github.com/CarlTBarnes/SystemColors) | View Windows System Colors grouped by Purpose, Alpha, or Equate Number. **One I use often.** |
+| A5 Tool | [Do2Class](https://github.com/CarlTBarnes/Do2Class) | Do2Class utility changes all DO ROUTINE code to call CLASS Methods in a Procedure. The code changes are minor, but to make the changes manually is tedious work, hence the utility to do it right with little work |
 | Code & Example | [HelpEngine Hook](https://github.com/CarlTBarnes/HelpEngine_CwHelp.INT) | Help is hooked using the Clarion HelpEngine Interface in CwHelp.INT. Examples of how to use it. |
 | Code & Example | [LIST Style Checkbox](https://github.com/CarlTBarnes/LIST-Style-Checkbox) | LIST Checkbox or Icon using Column Style and Dingbat fonts so no need for .ICO files |
 | Code | [AutoComplete File Path](https://github.com/CarlTBarnes/AutoCompleteFileOrURL) | ENTRY Auto Complete Drop List for File, Path or URL with one call to SHAutoComplete |
@@ -21,14 +22,13 @@
 | Example | [Large Address Memory Status](https://github.com/CarlTBarnes/LargeAddressMemoryStatus) | LARGE_ADDRESS in the EXP will increase process memory form 2GB to 4GB. Example shows Memory Status. |
 | Example | [LibMaker w/ Task Dialog](https://github.com/CarlTBarnes/LibMakerPlusTaskDlg) | LibMaker Plus using the Vista TakeDialog instead of Message(). Example for CIDC 2019 |
 | Template | [Parameter Symbols](https://github.com/CarlTBarnes/Template-Parameter-Symbols) | Procedure Parameter Symbols were added in C9 that save you parsing. This template shows you the 8 new symbols and documents them. |
-| Utility | [Clipboard Enum Viewer](https://github.com/CarlTBarnes/ClipboardEnumViewer) | Simple program to call EnumClipboardFormats() and show all the formats. Can also view the clipboard data using the Clarion Clipboard() function. |
-| Utility | [Data To Clarion](https://github.com/CarlTBarnes/DataToClarion) | StringTheory compressed string to use in Code from JSlarve |
+| Tool | [Clipboard Enum Viewer](https://github.com/CarlTBarnes/ClipboardEnumViewer) | Simple program to call EnumClipboardFormats() and show all the formats. Can also view the clipboard data using the Clarion Clipboard() function. |
+| Tool | [Data To Clarion](https://github.com/CarlTBarnes/DataToClarion) | StringTheory compressed string to use in Code from JSlarve |
+| Tool | [LibMaker Plus](https://github.com/CarlTBarnes/LibMakerPlus) | The Best LibMaker with Search, Tag, Subtract, Code generation. Based on [MG LibMaker](https://github.com/MarkGoldberg/ClarionCommunity/tree/master/CW/MGLibMaker) |
+| Tool | [Prototype 2 Export Pro2Exp](https://github.com/CarlTBarnes/Prototype2Export-Pro2Exp) | Mangle Procedure Prototypes to add to the EXP Exports |
 | Utility | [Favorite Find IDE](https://github.com/CarlTBarnes/FindCleanCwIDE/tree/main/FavoriteFind) | Add your favorite searches to the Find drop list (and clean)  |
 | Utility | [Find Clean CW IDE](https://github.com/CarlTBarnes/FindCleanCwIDE) | Clean the Clarion IDE Find drop list for faster open  |
-| Utility | [LibMaker Plus](https://github.com/CarlTBarnes/LibMakerPlus) | The Best LibMaker with Search, Tag, Subtract, Code generation. Based on [MG LibMaker](https://github.com/MarkGoldberg/ClarionCommunity/tree/master/CW/MGLibMaker) |
-| Utility | [List Format Parser](https://github.com/CarlTBarnes/List-Format-Parser) | Split the LIST Format Columns into one per line for understanding, editing, source compare. |
 | Utility | [Open File For Test](https://github.com/CarlTBarnes/OpenFileForTest) | Open a file and lock it to test your code can handle it gracefully and show an error. E.g. often CSV files are locked by Excel. |
-| Utility | [Prototype 2 Export Pro2Exp](https://github.com/CarlTBarnes/Prototype2Export-Pro2Exp) | Mangle Procedure Prototypes to add to the EXP Exports |
 | Utility | [Win SDK 10](https://github.com/CarlTBarnes/winsdk-10) | Use TPN put the Win 10 SDK on GitHub. I forked it as useful. |
 | Utility | [Zip FileName Fixer](https://github.com/CarlTBarnes/Zip-FileName-Fixer) | Zip will not compress files with High ASCII characters so this finds and fixes them.  |
 
