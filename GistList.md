@@ -19,7 +19,8 @@
 | Code | [FileExtensionFromName.clw        ](https://gist.github.com/CarlTBarnes/45e9e2f25ac304e44451a5558490e36d)| Find the File .EXT on the end of a File Name after last period                                                                                        
 | Code | [Hex8_FromLong.clw                ](https://gist.github.com/CarlTBarnes/a05f6318fd1c7eece9802b0aacda4e3d)| Hex String from LONG                                                                                 
 | Code | [LenFastClip.clw                  ](https://gist.github.com/CarlTBarnes/ea0c8cafb1fd8b6e428f4160058330eb)| LenFastClip replaces LEN(CLIP()) in ClaRUN.DLL as NAME('Cla$FASTCLIP')
-| Code | [LoadLibraryExample.clw           ](https://gist.github.com/CarlTBarnes/9fcde37b3b5278083cb594244fb9361f)| LoadLibrary Example                                                                                      
+| Code | [LoadLibraryExample.clw           ](https://gist.github.com/CarlTBarnes/9fcde37b3b5278083cb594244fb9361f)| LoadLibrary Example                                 
+| Code | [Manifest_WindowsXX.Manifest      ](https://gist.github.com/CarlTBarnes/4c7f97d922a3e19ea5592c73c999ad41)| Manifest files for Windows 10 8.1 8 7 with Visual Styles                                                      
 | Code | [ManifestFixupFunction.clw        ](https://gist.github.com/CarlTBarnes/2abf8a7be95cd14da586c7b9c17173f4)| Manifest Fixup Controls for Hand Code                                                                                        
 | Code | [MonthName.clw                    ](https://gist.github.com/CarlTBarnes/e39ff03a571295a3a9a0c89d10a6daaf)| Month name from Date or Month number                                                                               
 | Code | [ParseTokenStringIntoQueue.clw    ](https://gist.github.com/CarlTBarnes/709d454636f2d441072fb40714c5138e)| Parse String with Delimited with Tokens into a Queue
