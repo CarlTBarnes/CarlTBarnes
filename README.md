@@ -16,7 +16,7 @@
 | Code | [Holiday Calculator](https://github.com/CarlTBarnes/Holiday-Calculator) | Holiday Calculations in Clarion code from New Year's day to Thanksgiving and Christmas. Has two different Easter Calculations. |
 | Code | [Legacy ABC Coexist](https://github.com/CarlTBarnes/Legacy-ABC-Coexist) | Legacy and ABC APPs used together. Code to make it work and a template. Example School APPs.  |
 | Code | [Number to Words](https://github.com/CarlTBarnes/Number-to-Words-Ordinal) | Convert Numbers to words either Cardinal or Ordinal e.g. Ten or Tenth |
-| Code | [Password TEXT Paste](https://github.com/CarlTBarnes/Password-TEXT-Paste) | Clarion ENTRY,PASSWORD cannot paste. This code allows paste using a TEXT,SINGLE with ES_PASSWORD |
+| Code | [Password TEXT Paste](https://github.com/CarlTBarnes/Password-TEXT-Paste) | Clarion ENTRY,PASSWORD cannot paste. This code allows paste using a TEXT,SINGLE with ES_PASSWORD. Example of Password Peek with Hover, Click or Latched button. |
 | Code | [Stop Better Hook](https://github.com/CarlTBarnes/Stop-Better-Hook) | STOP() should never be in production code, but if it does happen show a better dialog. Also for HALT. Stack Trace button to find the exact STOP code. |
 | Code | [Temp-Clean-Clarion](https://github.com/CarlTBarnes/Temp-Clean-Clarion) | Clarion Reports generate WMF CLA###.TMP files into the Temp folder. Some templates generate more. Build this utility into your program to keep the Temp folder from filling up. |
 | Example | [Large Address Memory Status](https://github.com/CarlTBarnes/LargeAddressMemoryStatus) | LARGE_ADDRESS in the EXP will increase process memory form 2GB to 4GB. Example shows Memory Status. |
