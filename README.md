@@ -23,6 +23,7 @@
 | Example | [Large Address Memory Status](https://github.com/CarlTBarnes/LargeAddressMemoryStatus) | LARGE_ADDRESS in the EXP will increase process memory form 2GB to 4GB. Example shows Memory Status. |
 | Example | [LibMaker w/ Task Dialog](https://github.com/CarlTBarnes/LibMakerPlusTaskDlg) | LibMaker Plus using the Vista TakeDialog instead of Message(). Example for CIDC 2019 |
 | Template | [Parameter Symbols](https://github.com/CarlTBarnes/Template-Parameter-Symbols) | Procedure Parameter Symbols were added in C9 that save you parsing. This template shows you the 8 new symbols and documents them. |
+| Tool | [APP Splitter](https://github.com/CarlTBarnes/APP-Splitter) | Analyze an APP to shows largest Modules and Procedures to aide in splitting it up or fixing Too Many Segdef Compiler Error  |
 | Tool | [Clipboard Enum Viewer](https://github.com/CarlTBarnes/ClipboardEnumViewer) | Simple program to call EnumClipboardFormats() and show all the formats. Can also view the clipboard data using the Clarion Clipboard() function. |
 | Tool | [Data To Clarion](https://github.com/CarlTBarnes/DataToClarion) | StringTheory compressed string to use in Code from JSlarve |
 | Tool | [LibMaker Plus](https://github.com/CarlTBarnes/LibMakerPlus) | The Best LibMaker with Search, Tag, Subtract, Code generation. Based on [MG LibMaker](https://github.com/MarkGoldberg/ClarionCommunity/tree/master/CW/MGLibMaker) |
