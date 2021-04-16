@@ -19,6 +19,7 @@
 | Code | [Password TEXT Paste](https://github.com/CarlTBarnes/Password-TEXT-Paste) | Clarion ENTRY,PASSWORD cannot paste. This code allows paste using a TEXT,SINGLE with ES_PASSWORD. Example of Password Peek with Hover, Click or Latched button. |
 | Code | [Stop Better Hook](https://github.com/CarlTBarnes/Stop-Better-Hook) | STOP() should never be in production code, but if it does happen show a better dialog. Also for HALT. Stack Trace button to find the exact STOP code. |
 | Code | [Temp-Clean-Clarion](https://github.com/CarlTBarnes/Temp-Clean-Clarion) | Clarion Reports generate WMF CLA###.TMP files into the Temp folder. Some templates generate more. Build this utility into your program to keep the Temp folder from filling up. |
+| Example | [Clarion IDE Folders](https://github.com/CarlTBarnes/Clarion-Folders) | Clarion IDE folders in LIST controls. Example of 11.13505 From Queue PROP. |
 | Example | [Large Address Memory Status](https://github.com/CarlTBarnes/LargeAddressMemoryStatus) | LARGE_ADDRESS in the EXP will increase process memory form 2GB to 4GB. Example shows Memory Status. |
 | Example | [LibMaker w/ Task Dialog](https://github.com/CarlTBarnes/LibMakerPlusTaskDlg) | LibMaker Plus using the Vista TakeDialog instead of Message(). Example for CIDC 2019 |
 | Template | [Parameter Symbols](https://github.com/CarlTBarnes/Template-Parameter-Symbols) | Procedure Parameter Symbols were added in C9 that save you parsing. This template shows you the 8 new symbols and documents them. |
