@@ -11,6 +11,7 @@
 | A5 Tool | [Do2Class](https://github.com/CarlTBarnes/Do2Class) | Do2Class utility changes all DO ROUTINE code to call CLASS Methods in a Procedure. The code changes are minor, but to make the changes manually is tedious work, hence the utility to do it right with little work |
 | Code & Example | [HelpEngine Hook](https://github.com/CarlTBarnes/HelpEngine_CwHelp.INT) | Help is hooked using the Clarion HelpEngine Interface in CwHelp.INT. Examples of how to use it. |
 | Code & Example | [LIST Style Checkbox](https://github.com/CarlTBarnes/LIST-Style-Checkbox) | LIST Checkbox or Icon using Column Style and Dingbat fonts so no need for .ICO files |
+| Code | [ASCII 85 Class](https://github.com/CarlTBarnes/Ascii85-Clarion) | Class to Encode and Decode binary strings using [ASCII 85](https://en.wikipedia.org/wiki/Ascii85) also know as Base 85. More efficient than Base64. |
 | Code | [AutoComplete File Path](https://github.com/CarlTBarnes/AutoCompleteFileOrURL) | ENTRY Auto Complete Drop List for File, Path or URL with one call to SHAutoComplete |
 | Code | [Clarion-Root-Find](https://github.com/CarlTBarnes/Clarion-Root-Find) | Find Clarion IDE installed in Registry and return a Queue. Handy if you write Clarion IDE Utilities. |
 | Code | [Holiday Calculator](https://github.com/CarlTBarnes/Holiday-Calculator) | Holiday Calculations in Clarion code from New Year's day to Thanksgiving and Christmas. Has two different Easter Calculations. |
