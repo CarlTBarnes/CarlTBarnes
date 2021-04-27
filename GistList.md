@@ -12,6 +12,7 @@
 | Code | [DebugOutput.clw                  ](https://gist.github.com/CarlTBarnes/d3c7a3779b094f0ed48186d04a9b45e6)| OutputDebugString wrapper for Clarion String
 | Code | [DebugViewDetect.clw              ](https://gist.github.com/CarlTBarnes/c88a85373873f6ff54b79071e1a67d80)| Debug Viewer Detection for OutputDebugString
 | Code | [DropListLeftAlign_Test.clw       ](https://gist.github.com/CarlTBarnes/6b2812bf95e9b8de1cc84f934efcd969)| DROP List is Left Aligned by Class for Combo/List Control. Normally RTL aligns Right. CBDropLeftClass
+| Code | [DropListPretty.clw               ](https://gist.github.com/CarlTBarnes/c100da879ac9f5992b4dd7358132b8de)| DROP List more visble and easier to read colored
 | Code | [DEP_Policy_Test.clw              ](https://gist.github.com/CarlTBarnes/d0f94d5ec6df1d4385909d67dbf49bd2)| DEP Policy View and Test in Clarion (does not require 13620)
 | Code | [Error4Message.clw                ](https://gist.github.com/CarlTBarnes/a6ee0a195aaaab54d7ac3abd55aade84)| Format ErrorCode() & Error() etc ... to show in a Message() Stop() Halt(), or format on 1 line for a Log file or debug/tracing
 | Code | [ExistsDirectory_or_File.clw      ](https://gist.github.com/CarlTBarnes/d301e2cffa475820f6cc4e9fd7895ff9)| ExistsDirectory() or ExistsFile() using GetFileAttributes() instead of Clarion Exists()
@@ -24,6 +25,7 @@
 | Code | [ManifestFixupFunction.clw        ](https://gist.github.com/CarlTBarnes/2abf8a7be95cd14da586c7b9c17173f4)| Manifest Fixup Controls for Hand Code
 | Code | [MenuOpenMessage.clw              ](https://gist.github.com/CarlTBarnes/e2902bb0280fe25554aa67b2e9292c51)| Menu Open Windows Message to modify menus before opening
 | Code | [MonthName.clw                    ](https://gist.github.com/CarlTBarnes/e39ff03a571295a3a9a0c89d10a6daaf)| Month name from Date or Month number
+| Code | [Option2DropList.clw              ](https://gist.github.com/CarlTBarnes/e73b02cee9c2d5b73eab8a35e841f618)| Generate LIST,DROP,FROM based on OPTION and RADIOs on Window
 | Code | [ParseTokenStringIntoQueue.clw    ](https://gist.github.com/CarlTBarnes/709d454636f2d441072fb40714c5138e)| Parse String with Delimited with Tokens into a Queue
 | Code | [PathExists.clw                   ](https://gist.github.com/CarlTBarnes/e2b1f07fcc306192c32995c03249d28b)| Path Exists or File Exists functions versus Clarion Exists()
 | Code | [PopupUnder.clw                   ](https://gist.github.com/CarlTBarnes/297557ade046558cdeb183fdd27bb1df)| Popup() Menu Under or Beside a Control so Menu appears to drop under a Button
