@@ -31,9 +31,10 @@
 | Code | [PopupUnder.clw                   ](https://gist.github.com/CarlTBarnes/297557ade046558cdeb183fdd27bb1df)| Popup() Menu Under or Beside a Control so Menu appears to drop under a Button
 | Code | [RED  Clarion110.red              ](https://gist.github.com/CarlTBarnes/bb8f31ff45896db9cacaee79c732ca8e)| Clarion 11 RED file to Copy Debug ClaRUN.DLL to Project Folder during Debug build
 | Code | [Region_Drag_Window.clw           ](https://gist.github.com/CarlTBarnes/3bc3f0164071bc0548df2db8b2fd6963)| Region dragging with mouse example, e.g. for Splash Window with no title bar
-| Code | [ReportPrintWithDebugLogging.clw  ](https://gist.github.com/CarlTBarnes/cd99310728b490cf4e085d8c4cccd2c6)| ReportPrint() procedure Prints Details while logging to OutputDebugString. Can also add STRING to printed BAND to Identify it.
 | Code | [RemoveDirectoryOfFiles.clw       ](https://gist.github.com/CarlTBarnes/67e8a4e53c12ec820d9d6ebbba6957a3)| Remove Directory of Files using Directory() and API DeleteFile
 | Code | [RemoveMinButton.clw              ](https://gist.github.com/CarlTBarnes/86b64b19d5309a1ca00d1fce2bb225a3)| Remove Minimize button so window can have ICON() but user cannot minimize
+| Code | [ReportPrintWithDebugLogging.clw  ](https://gist.github.com/CarlTBarnes/cd99310728b490cf4e085d8c4cccd2c6)| ReportPrint() procedure Prints Details while logging to OutputDebugString. Can also add STRING to printed BAND to Identify it.
+| Code | [ReportManualPaging.clw           ](https://gist.github.com/CarlTBarnes/1e0ddd480e083f8feedb4a98f53176a4)| Report Manual Page class and Template - To control page breaks by counting lines
 | Code | [ReportTest.clw                   ](https://gist.github.com/CarlTBarnes/29f78a2ca43813e83489dc62a4d5e0c0)| Report Scratch program and test Framework
 | Code | [Scratch.clw                      ](https://gist.github.com/CarlTBarnes/87e1b615288409b86b7f7af4488e8dbd)| Scratch source I use when I want to write a quick test of some code
 | Code | [SmashSpaces.clw                  ](https://gist.github.com/CarlTBarnes/09bdf8ad4870f366749e9ec64d6a97b8)| Smash (remove) spaces from a STRING
