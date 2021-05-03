@@ -1,5 +1,5 @@
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Code generation, like drinking alcohol, is good in moderation.”— Alex Lowe   ❞</i>
+<i>❝“If you automate a mess, you get an automated mess.”— Rod Michael   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 | Type | URL | Description (Code="Code you can use")  |
