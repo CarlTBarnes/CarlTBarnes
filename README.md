@@ -18,6 +18,7 @@
 | Code | [Legacy ABC Coexist](https://github.com/CarlTBarnes/Legacy-ABC-Coexist) | Legacy and ABC APPs used together. Code to make it work and a template. Example School APPs.  |
 | Code | [Number to Words](https://github.com/CarlTBarnes/Number-to-Words-Ordinal) | Convert Numbers to words either Cardinal or Ordinal e.g. Ten or Tenth |
 | Code | [Password TEXT Paste](https://github.com/CarlTBarnes/Password-TEXT-Paste) | Clarion ENTRY,PASSWORD cannot paste. This code allows paste using a TEXT,SINGLE with ES_PASSWORD. Example of Password Peek with Hover, Click or Latched button. |
+| Code | [Progress API](https://github.com/CarlTBarnes/Progress-API) | Clarion Progress control tricks using Windows API. Create a Marquee Progress, State changes Color, Reverse to move Right to Left.  |
 | Code | [Stop Better Hook](https://github.com/CarlTBarnes/Stop-Better-Hook) | STOP() should never be in production code, but if it does happen show a better dialog. Also for HALT. Stack Trace button to find the exact STOP code. |
 | Code | [Temp-Clean-Clarion](https://github.com/CarlTBarnes/Temp-Clean-Clarion) | Clarion Reports generate WMF CLA###.TMP files into the Temp folder. Some templates generate more. Build this utility into your program to keep the Temp folder from filling up. |
 | Example | [Clarion IDE Folders](https://github.com/CarlTBarnes/Clarion-Folders) | Clarion IDE folders in LIST controls. Example of 11.13505 From Queue PROP. |
