@@ -30,6 +30,7 @@
 | Tool | [Data To Clarion](https://github.com/CarlTBarnes/DataToClarion) | StringTheory compressed string to use in Code from JSlarve |
 | Tool | [LibMaker Plus](https://github.com/CarlTBarnes/LibMakerPlus) | The Best LibMaker with Search, Tag, Subtract, Code generation. Based on [MG LibMaker](https://github.com/MarkGoldberg/ClarionCommunity/tree/master/CW/MGLibMaker) |
 | Tool | [Prototype 2 Export Pro2Exp](https://github.com/CarlTBarnes/Prototype2Export-Pro2Exp) | Mangle Procedure Prototypes to add to the EXP Exports |
+| Tool | [XML Code Comments](https://github.com/CarlTBarnes/Xml-Code-Comments-Clarion) | Generate XML comments from a Procedure Prototype |
 | Utility | [Favorite Find IDE](https://github.com/CarlTBarnes/FindCleanCwIDE/tree/main/FavoriteFind) | Add your favorite searches to the Find drop list (and clean)  |
 | Utility | [Find Clean CW IDE](https://github.com/CarlTBarnes/FindCleanCwIDE) | Clean the Clarion IDE Find drop list for faster open  |
 | Utility | [Open File For Test](https://github.com/CarlTBarnes/OpenFileForTest) | Open a file and lock it to test your code can handle it gracefully and show an error. E.g. often CSV files are locked by Excel. |
