@@ -1,5 +1,5 @@
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It was a joke, okay?  If we thought it would actually be used, we wouldn’t have written it!”— Mark Andreesen, speaking of the HTML tag BLINK      ❞</i>
+<i>❝4004 was the name given to the first microprocessor by Intel.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 | Type | URL | Description (Code="Code you can use")  |
