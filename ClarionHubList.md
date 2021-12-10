@@ -1,0 +1,29 @@
+### ClarionHub.com Favorites List
+
+| Topic and Link | Description  |
+|----------------|--------------|
+| [OPTION and RADIO conversion to Drop LIST FROM() ](https://clarionhub.com/t/option-and-radio-conversion-to-drop-list-from/4081?u=carlbarnes) | Takes an OPTION and RADIO and generates code to make a LIST with PROMPT perfectly sized.
+| [How to make DROP List more visible on the window ](https://clarionhub.com/t/how-to-make-drop-list-more-visible-on-the-window/3760?u=carlbarnes) | DropListPretty() procedure to make DROP LIST more visible to the user with indents and color.
+| [Utility to split FROM('String #Value') to one Item / #Value per line ](https://clarionhub.com/t/utility-to-split-from-string-value-to-one-item-value-per-line/4613?u=carlbarnes) | Parse a LIST FROM('String #1') to one line per Item and generate a CASE #Value.
+| [Future_Topic       ](https://clarionhub.com) | Long_Description
+| [Future_Topic       ](https://clarionhub.com) | Long_Description
+| [Future_Topic       ](https://clarionhub.com) | Long_Description
+| [Future_Topic       ](https://clarionhub.com) | Long_Description
+| [List Format Parser - Split Columns into Lines for View, Edit, Compare and Preview ](https://clarionhub.com/t/list-format-parser-split-columns-into-lines-for-view-edit-compare-also-list-previewer/3991?u=carlbarnes) | Post about my List Format Parser
+| [Test if Close(Report) is SLOW on your System       ](https://clarionhub.com/t/test-if-close-report-is-slow-on-your-system-mine-100x-slower-than-c6/4491?u=carlbarnes) | Test project to see how fast Close(Report) is on your system and a template fix. I noticed large 1000+ page Reports closed Preview there was an obvious pause of 10+ seconds before focus returned to the calling window
+|----------------|--------------|
+| [How to improve the Call Stack when your program GPFs to show Procedure Names ](https://clarionhub.com/t/how-to-improve-the-call-stack-when-your-program-gpfs-to-show-procedure-names/188?u=carlbarnes) | Get a Call Stack with Procedure and Routine names instead of just addresses
+| [Editing Default Redirection RED file to create .LIB with .DLL in project folder ](https://clarionhub.com/t/editing-default-redirection-red-file-to-create-lib-with-dll-in-project-folder/1646?u=carlbarnes) | Edit the RED to put the LIB file with the DLL in the project folder not in the Debug/Release folder.
+
+Markdown to copy/paste
+| Topic and Link | Description  |
+|----------------|--------------|
+| [OPTION and RADIO conversion to Drop LIST FROM()](https://clarionhub.com/t/option-and-radio-conversion-to-drop-list-from/4081?u=carlbarnes) | Takes an OPTION and RADIO and generates code to make a LIST with PROMPT perfectly sized.
+| [Future_Topic       ](https://clarionhub.com) | Function to make DROP LIST more visible to the user.
+| [Future_Topic       ](https://clarionhub.com) | Long_Description
+| [Future_Topic       ](https://clarionhub.com) | Long_Description
+| [Future_Topic       ](https://clarionhub.com) | Long_Description
+| [Future_Topic       ](https://clarionhub.com) | Long_Description
+| [Future_Topic       ](https://clarionhub.com) | Long_Description
+| [Future_Topic       ](https://clarionhub.com) | Long_Description
+
