@@ -7,8 +7,7 @@
 | [Utility to split FROM('String #Value') to one Item / #Value per line ](https://clarionhub.com/t/utility-to-split-from-string-value-to-one-item-value-per-line/4613?u=carlbarnes) | Parse a LIST FROM('String #1') to one line per Item and generate a CASE #Value.
 | [How to solve - The Window Previewer could not display the window ](https://clarionhub.com/t/how-to-solve-the-window-previewer-could-not-display-the-window/3545?u=carlbarnes) | When the Window Previewer displays an error message (or nothing) this post will help solve the problem.
 | [Enhanced Window Preview with "Fit Data" and LIST's that always work ](https://clarionhub.com/t/enhanced-window-preview-with-fit-data-and-lists-that-always-work/4050?u=carlbarnes) | The shipping window preview sample data, colors and styles kind of suck. This is better.
-| [Future_Topic       ](https://clarionhub.com) | Long_Description
-| [Future_Topic       ](https://clarionhub.com) | Long_Description
+| [Template for generating Column and Group equates for ABC browse ](https://clarionhub.com/t/template-for-generating-column-and-group-equates-for-abc-browse/3930?u=carlbarnes) | Generate Equates for each Column in a LIST to use with { PROPLIST:Xxxx, Column# }
 | [List Format Parser - Split Columns into Lines for View, Edit, Compare and Preview ](https://clarionhub.com/t/list-format-parser-split-columns-into-lines-for-view-edit-compare-also-list-previewer/3991?u=carlbarnes) | Post about my List Format Parser
 | [Test if Close(Report) is SLOW on your System       ](https://clarionhub.com/t/test-if-close-report-is-slow-on-your-system-mine-100x-slower-than-c6/4491?u=carlbarnes) | Test project to see how fast Close(Report) is on your system and a template fix. I noticed large 1000+ page Reports closed Preview there was an obvious pause of 10+ seconds before focus returned to the calling window
 |----------------|--------------|
