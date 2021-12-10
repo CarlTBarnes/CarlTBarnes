@@ -2,11 +2,11 @@
 
 | Topic and Link | Description  |
 |----------------|--------------|
-| [OPTION and RADIO conversion to Drop LIST FROM() ](https://clarionhub.com/t/option-and-radio-conversion-to-drop-list-from/4081?u=carlbarnes) | Takes an OPTION and RADIO and generates code to make a LIST with PROMPT perfectly sized.
+| [OPTION and RADIO conversion to Drop LIST FROM() ](https://clarionhub.com/t/option-and-radio-conversion-to-drop-list-from/4081?u=carlbarnes) | Takes an OPTION and RADIO and generates code to make a LIST with PROMPT perfectly sized. This makes it easy to view and edit the list.
 | [How to make DROP List more visible on the window ](https://clarionhub.com/t/how-to-make-drop-list-more-visible-on-the-window/3760?u=carlbarnes) | DropListPretty() procedure to make DROP LIST more visible to the user with indents and color.
 | [Utility to split FROM('String #Value') to one Item / #Value per line ](https://clarionhub.com/t/utility-to-split-from-string-value-to-one-item-value-per-line/4613?u=carlbarnes) | Parse a LIST FROM('String #1') to one line per Item and generate a CASE #Value.
-| [Future_Topic       ](https://clarionhub.com) | Long_Description
-| [Future_Topic       ](https://clarionhub.com) | Long_Description
+| [How to solve - The Window Previewer could not display the window ](https://clarionhub.com/t/how-to-solve-the-window-previewer-could-not-display-the-window/3545?u=carlbarnes) | When the Window Previewer displays an error message (or nothing) this post will help solve the problem.
+| [Enhanced Window Preview with "Fit Data" and LIST's that always work ](https://clarionhub.com/t/enhanced-window-preview-with-fit-data-and-lists-that-always-work/4050?u=carlbarnes) | The shipping window preview sample data, colors and styles kind of suck. This is better.
 | [Future_Topic       ](https://clarionhub.com) | Long_Description
 | [Future_Topic       ](https://clarionhub.com) | Long_Description
 | [List Format Parser - Split Columns into Lines for View, Edit, Compare and Preview ](https://clarionhub.com/t/list-format-parser-split-columns-into-lines-for-view-edit-compare-also-list-previewer/3991?u=carlbarnes) | Post about my List Format Parser
@@ -27,3 +27,8 @@ Markdown to copy/paste
 | [Future_Topic       ](https://clarionhub.com) | Long_Description
 | [Future_Topic       ](https://clarionhub.com) | Long_Description
 
+
+TODO: make a group of learning Clarion, see posts: 
+https://clarionhub.com/t/clarion-8-training/4658/17
+https://clarionhub.com/t/learning-clarion-11/4358
+https://clarionhub.com/t/learning-clarion-on-a-budget/3729
