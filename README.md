@@ -47,6 +47,7 @@ Covered on Clarion Live...
  -- [GIST Code Table](GistList.md)
  -- [GIST page](https://gist.github.com/CarlTBarnes)
  -- [Main Page](https://github.com/CarlTBarnes)
+ -- [ClarionHub Favorites](ClarionHubList.md)
 
 <!--
 **CarlTBarnes/CarlTBarnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
