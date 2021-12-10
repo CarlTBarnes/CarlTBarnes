@@ -1,6 +1,6 @@
 | Type | URL | Description (Code="Code you can use")  |
 |-----|-----|-------------|
-| A0 Code | [Code Snippets](GistList.md) | Clarion Code Snippets on [my GitHub GIST page](https://gist.github.com/CarlTBarnes) |
+| A0 Code | [Code Snippets](GistList.md) | Clarion Code Snippets on [my GitHub GIST page](https://gist.github.com/CarlTBarnes) and [ClarionHub favorites](https://gist.github.com/CarlTBarnes/ClarionHubList.md)  |
 | A1 Code | [Window Preview Class](https://github.com/CarlTBarnes/WindowPreview) | Designer Preview windows have a secret button that allows altering controls on the live preview window and interrogating properties. Easily integrate the class into your live running program to see the USE() behind every control, its PROP's, Resize it, Reformat LISTs. Methods to reflect QUEUE fields and CLASS data. Much More! |
 | A2 Code & Tool | [StringTheory Tools](https://github.com/CarlTBarnes/StringTheory-Tools) | Three tools to make it easier to write code using StringTheory and its up to 8 parameters. The BigBangTheory class helps debug your ST code with popup windows to show value, lines queue, splits, parameters, more. |
 | A3 Tool | [List Format Parser](https://github.com/CarlTBarnes/List-Format-Parser) | Split the LIST Format Columns into one per line for understanding, editing, source compare. Preview any List Format. Generate FORMAT() from QUEUE or FILE definition. |
