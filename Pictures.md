@@ -37,26 +37,28 @@
 | Blank     | No        | @d01    | 00/00/00     |
 |           | Zero      | @d01b   |              |
 
-======================================================
+[Date Pictures in Clarion Help](https://clarion.help/doku.php?id=date_pictures.htm)
+
+------------------------
 
 ### Time Pictures
 
-| Picture | Format  | Example |
-| --      | --      | --      |
-| @t1 | hh:mm       | 12:34 |
-| @t2 | hhmm        | 1234 |
-| @t3 | hh:mmXM     | 12:34PM |
-| @t4 | hh:mm:ss    | 12:34:56 |
-| @t5 | hhmmss      | 123456 |
-| @t6 | hh:mm:ssXM  | 12:34:56PM |
-|     | | |
-| @t7 | Short Time  | 12:34 PM |
-| @t8 | Long Time   | 12:34:56 PM |
+| Picture | Format      | Example |
+| --      | --          | --      |
+| @t1     | hh:mm       | 12:34 |
+| @t2     | hhmm        | 1234 |
+| @t3     | hh:mmXM     | 12:34PM |
+| @t4     | hh:mm:ss    | 12:34:56 |
+| @t5     | hhmmss      | 123456 |
+| @t6     | hh:mm:ssXM  | 12:34:56PM |
+|         |             | |
+| @t7     | Short Time  | 12:34 PM |
+| @t8     | Long Time   | 12:34:56 PM |
 
 #### Time Picture Modifiers
 
-| Type      | Character | Picture |  Example  |
-| --        | --        | --      | -- |
+| Type      | Character | Picture | Example  |
+| --        | --        | --      | --       |
 | Leading   | Space     | @t1     |  1:23    |
 |           | Zero      | @t01    | 01:23    |
 |           |           |         |          |
@@ -68,3 +70,5 @@
 |           |           |         |          |
 | Blank     | No        | @t01    | 00:00    |
 |           | Zero      | @t01b   |          |
+
+[Time Pictures in Clarion Help](https://clarion.help/doku.php?id=time_pictures.htm)
