@@ -33,6 +33,7 @@
 | Code | [RED  Clarion110.red              ](https://gist.github.com/CarlTBarnes/bb8f31ff45896db9cacaee79c732ca8e)| Clarion 11 RED file to Copy Debug ClaRUN.DLL to Project Folder during Debug build
 | Code | [Region_Drag_Window.clw           ](https://gist.github.com/CarlTBarnes/3bc3f0164071bc0548df2db8b2fd6963)| Region dragging with mouse example, e.g. for Splash Window with no title bar
 | Code | [RemoveDirectoryOfFiles.clw       ](https://gist.github.com/CarlTBarnes/67e8a4e53c12ec820d9d6ebbba6957a3)| Remove Directory of Files using Directory() and API DeleteFile
+| Code | [RemoveFileWithAPI.clw            ](https://gist.github.com/CarlTBarnes/e5d553a8ffe4287b0e19deac9c432202)| Remove file using API DeleteFile() to avoid bugs and slow speed of in RTL REMOVE(). Sets RTL ErrorCode() so can use as replacement for REMOVE().
 | Code | [RemoveMinButton.clw              ](https://gist.github.com/CarlTBarnes/86b64b19d5309a1ca00d1fce2bb225a3)| Remove Minimize button so window can have ICON() but user cannot minimize
 | Code | [ReplaceString.clw                ](https://gist.github.com/CarlTBarnes/03a1929c5ddcba80ea657ffe04e93c94)| Search and Replace Substring in a String. ReplaceInto(*Into,Find,Replace),LONG or ReplaceText(Text,Find,Replace),STRING
 | Code | [ReportPrintWithDebugLogging.clw  ](https://gist.github.com/CarlTBarnes/cd99310728b490cf4e085d8c4cccd2c6)| ReportPrint() procedure Prints Details while logging to OutputDebugString. Can also add STRING to printed BAND to Identify it.
