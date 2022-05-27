@@ -15,7 +15,7 @@
 |----------------|--------------|
 | [How to improve the Call Stack when your program GPFs to show Procedure Names ](https://clarionhub.com/t/how-to-improve-the-call-stack-when-your-program-gpfs-to-show-procedure-names/188?u=carlbarnes) | Get a Call Stack with Procedure and Routine names instead of just addresses
 | [Editing Default Redirection RED file to create .LIB with .DLL in project folder ](https://clarionhub.com/t/editing-default-redirection-red-file-to-create-lib-with-dll-in-project-folder/1646?u=carlbarnes) | Edit the RED to put the LIB file with the DLL in the project folder not in the Debug/Release folder.
-| [Fake Setup Clarion 9 to install older Accessory Setups like BoTpl ](https://clarionhub.com/t/fake-setup-clarion-9-to-install-older-accessory-setups-like-botpl/4231?u=carlbarnes) | Trying to install an old 3rd party tool like BOTPL? It uses SetupBuilder that requires a knownn Clarion Install when that installer was made. This will crfeate a Clarion 8, 9 or 9.1 "Fake Install" wit all the Registry Keys and Folders for SetupBuilder requires.
+| [Fake Setup Clarion 9 to install older Accessory Setups like BoTpl ](https://clarionhub.com/t/fake-setup-clarion-9-to-install-older-accessory-setups-like-botpl/4231?u=carlbarnes) | Trying to install an old 3rd party tool like BOTPL? It uses SetupBuilder that requires a known Clarion Install when that existed when the setup was created. Attached code will create a Clarion 8, 9 or 9.1 "Fake Install" with all the Registry Keys and Folders SetupBuilder requires.
 
 See my posts: https://clarionhub.com/u/carlbarnes/activity/topics
 
