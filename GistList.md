@@ -18,6 +18,8 @@
 | Code | [ExistsDirectory_or_File.clw      ](https://gist.github.com/CarlTBarnes/d301e2cffa475820f6cc4e9fd7895ff9)| ExistsDirectory() or ExistsFile() using GetFileAttributes() instead of Clarion Exists()
 | Code | [FileAttributes.clw               ](https://gist.github.com/CarlTBarnes/2d89615faa064f0b8437c6a66d0f80e2)| File Attributes Strip Read Only - GetFileAttributes / SetFileAttributes
 | Code | [FileExtensionFromName.clw        ](https://gist.github.com/CarlTBarnes/45e9e2f25ac304e44451a5558490e36d)| Find the File .EXT on the end of a File Name after last period
+| Code | [Get_SetWindowLong.clw            ](https://gist.github.com/CarlTBarnes/d2248102dc06873df577f31ad3db1be8)| GetWindowLong() then SetWindowLong() applying an OFF and ON Bitmask 
+| Code | [GroupMoveChildren.clw            ](https://gist.github.com/CarlTBarnes/a2d910ecea78d4d3ddea6201ee72adba)| Move a Group and all of its Child Controls 
 | Code | [Hex8_FromLong.clw                ](https://gist.github.com/CarlTBarnes/a05f6318fd1c7eece9802b0aacda4e3d)| Hex String from LONG
 | Code | [LenFastClip.clw                  ](https://gist.github.com/CarlTBarnes/ea0c8cafb1fd8b6e428f4160058330eb)| LenFastClip replaces LEN(CLIP()) in ClaRUN.DLL as NAME('Cla$FASTCLIP')
 | Code | [ListDropDown.clw                 ](https://gist.github.com/CarlTBarnes/7d0b7c6e8547447de87b04f6211fc1d3)| LIST and COMBO -- Show the DROP List or Hide it with WinAPI message CB_SHOWDROPDOWN
