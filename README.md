@@ -51,6 +51,9 @@ Covered on Clarion Live...
  -- [Main Page](https://github.com/CarlTBarnes)
  -- [ClarionHub Favorites](ClarionHubList.md)
 
+[![Carl Barnes's GitHub stats](https://github-readme-stats.vercel.app/api?username=carltbarnes&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **CarlTBarnes/CarlTBarnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
