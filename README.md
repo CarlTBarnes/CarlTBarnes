@@ -1,3 +1,7 @@
+|     | What's New   |
+|-----|--------------|
+| 2024-07 | Added new [Date Time Number Picture Tool](https://github.com/CarlTBarnes/Date-Time-Number-Tool) in the Tool section |
+
 | Type | URL | Description (Code="Code you can use")  |
 |-----|-----|-------------|
 | A0 Code | [Code Snippets](GistList.md) | Clarion Code Snippets on [my GitHub GIST page](https://gist.github.com/CarlTBarnes) and [ClarionHub favorites](ClarionHubList.md)  |
