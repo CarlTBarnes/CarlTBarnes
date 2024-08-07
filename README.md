@@ -1,5 +1,6 @@
 |     | What's New   |
 |-----|--------------|
+| 2024-08 | Added [EXP 2 MAP](https://github.com/CarlTBarnes/Exp2map_OwenBrunker) that decodes Mangled EXP in the Tool section |
 | 2024-07 | Added new [Date Time Number Picture Tool](https://github.com/CarlTBarnes/Date-Time-Number-Tool) in the Tool section |
 
 | Type | URL | Description (Code="Code you can use")  |
@@ -33,6 +34,7 @@
 | Tool | [Date Time Number Picture](https://github.com/CarlTBarnes/Date-Time-Number-Tool) | Clarion Standard Date and Time, plus Numbers and Pictures |
 | Tool | [LibMaker Plus](https://github.com/CarlTBarnes/LibMakerPlus) | The Best LibMaker with Search, Tag, Subtract, Code generation. Based on [MG LibMaker](https://github.com/MarkGoldberg/ClarionCommunity/tree/master/CW/MGLibMaker) |
 | Tool | [Prototype 2 Export Pro2Exp](https://github.com/CarlTBarnes/Prototype2Export-Pro2Exp) | Mangle Procedure Prototypes to add to the EXP Exports |
+| Tool | [Export 2 Prototype Exp2Map](https://github.com/CarlTBarnes/Exp2map_OwenBrunker) | Decode Mangled EXP Line into Procedure Prototype Parameter list for the MAP |
 | Tool | [Sheet Tab PROP](https://github.com/CarlTBarnes/SHEET-TAB-PROP) | Sheet Tab Property and Attribute Explorer |
 | Tool | [XML Code Comments](https://github.com/CarlTBarnes/Xml-Code-Comments-Clarion) | Generate XML comments from a Procedure Prototype |
 | Utility | [Favorite Find IDE](https://github.com/CarlTBarnes/FindCleanCwIDE/tree/main/FavoriteFind) | Add your favorite searches to the Find drop list (and clean)  |
