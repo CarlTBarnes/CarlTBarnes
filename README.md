@@ -1,5 +1,6 @@
 |     | What's New   |
 |-----|--------------|
+| 2024-11 | Enhanced [XML Code Comments](https://github.com/CarlTBarnes/Xml-Code-Comments-Clarion) to add Region and more |
 | 2024-08 | Added [EXP 2 MAP](https://github.com/CarlTBarnes/Exp2map_OwenBrunker) that decodes Mangled EXP in the Tool section |
 | 2024-07 | Added new [Date Time Number Picture Tool](https://github.com/CarlTBarnes/Date-Time-Number-Tool) in the Tool section |
 
