@@ -1,5 +1,6 @@
 |     | What's New   |
 |-----|--------------|
+| 2025-01 | New GIST [Class_Maker.Inc.Clw](https://gist.github.com/CarlTBarnes/d96beecae88688c7ec344da10fa17eac) Create a New Class Quickly with a "Template" class |
 | 2025-01 | New Tool [AT Sort Report](https://github.com/CarlTBarnes/AT-Sort-Report) Sort REPORT Controls by AT(X,Y) and do "Cleaning". |
 | 2024-11 | New Tool [Bit Mapper](https://github.com/CarlTBarnes/Bit-Mapper) to view a LONG's Bits, Nibbles & Bytes  |
 | 2024-11 | Enhanced [XML Code Comments](https://github.com/CarlTBarnes/Xml-Code-Comments-Clarion) to add Region and more |
