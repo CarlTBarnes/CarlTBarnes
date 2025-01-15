@@ -6,6 +6,7 @@
 | Code | [CBAltWin7Fix.tpl                 ](https://gist.github.com/CarlTBarnes/5e0e7d5a3e3f0b5c991e8f0601e69004)| Fix Alt key lockup problem with the latest version of Windows 10 that I wrote and published in ClarionMag
 | Code | [CascadeMdiChildren.clw           ](https://gist.github.com/CarlTBarnes/ed29557b7142ec4695f7d460cabef3fd)| Cascade open MDI Child windows like Clarion RTL STD:CascadeWindow using Windows API
 | Code | [Clarion_Hub_Interesting.txt      ](https://gist.github.com/CarlTBarnes/aabb812d5a34fcfe69d2421702799aef)| Clarion Hub links of interest
+| Code | [_Class_Maker_.inc.clw            ](https://gist.github.com/CarlTBarnes/d96beecae88688c7ec344da10fa17eac)| Class Maker - Create a Class easily using a "Template" plus Search and Replace.
 | Code | [CloseWindowHook.clw              ](https://gist.github.com/CarlTBarnes/f86f6b695276b2b3327f5959e5c57682)| Prop:CloseWindowHook Example Clarion
 | Code | [DateSplit.clw                    ](https://gist.github.com/CarlTBarnes/77ebb46ddcce3ed7c4040f9c31bd571c)| DateSplit(Date, Month, Day, Year) much faster than calling MONTH() DAY() YEAR() separately
 | Code | [DayOfWeek.clw                    ](https://gist.github.com/CarlTBarnes/b4ec3d3968ccc8de0f5d81d9f4ada7cf)| Day of Week from Clarion Date
